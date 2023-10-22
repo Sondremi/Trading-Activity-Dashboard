@@ -1,5 +1,4 @@
 import datetime as dt
-import csv
 
 class Analyse:
     """
@@ -247,7 +246,7 @@ class Analyse:
             float: win/loss ratio.
         """
         price, loss = 0, 0
-
+        # Counts win and loss trades, excludes overnight-fees and bank-transactions
         for transaksjon in self._data:
             if transaksjon[2] == 'Trade Receivable':
                 price += 1
