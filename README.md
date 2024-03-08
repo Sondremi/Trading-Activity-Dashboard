@@ -1,8 +1,8 @@
 # TD365-analysis
-Shows you an overview of you trading-transactions from TD365 or other trading platforms.
+Shows you an overview of your trading-transactions from TD365 or other trading platforms.
 
-How to use it:
+How to use:
 - Download your trading data with transactions from your broker as a csv file
 - Name the file TransactionHistory.csv
-- Put csv file in current folder
+- Make sure csv file in the right folder
 - run oversikt.py
