@@ -4,5 +4,4 @@ Shows you an overview of your trading-transactions from TD365 or other trading p
 How to use:
 - Download your trading data with transactions from your broker as a csv file
 - Name the file TransactionHistory.csv
-- Make sure csv file in the right folder
 - run oversikt.py
