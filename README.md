@@ -1,4 +1,4 @@
-# Trading analysis
+# Trading Activity Dashboard
 Shows you an better overview of your return from your trading.
 See results from last day, week, month, 6 months, year and all time.
 
