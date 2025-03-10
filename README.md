@@ -1,8 +1,10 @@
-# Trading Activity Dashboard
-Shows you an better overview of your return from your trading.
-See results from last day, week, month, 6 months, year and all time.
+# Trading Activity Dashboard  
 
-How to use:
-- Download your trading data with transactions from your broker as a csv file
-- Name the file TransactionHistory.csv
-- run oversikt.py
+Provides a clear overview of your trading returns. View your performance over different time periods: last day, week, month, six months, year, and all time.  
+
+## How to Use  
+
+- Download your trading transaction history from your broker as a CSV file.  
+- Name the file `TransactionHistory.csv`.  
+- Run `oversikt.py`.  
+
